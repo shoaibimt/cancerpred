@@ -19,7 +19,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 numpy==1.26.4
 packaging==23.2
-padelpy==0.1.16
+padelpy==0.1.14
 pandas==2.2.0
 pillow==10.2.0
 protobuf==4.25.2

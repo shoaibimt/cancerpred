@@ -122,7 +122,7 @@ with tab1:
         if os.path.isfile('molecule.smi'):
           padeldescriptor(mol_dir='molecule.smi', 
                             d_file='descriptors.csv',
-                            descriptortypes='models\\fingerprints_xml\\Fingerprinter.xml',
+                            descriptortypes='models/fingerprints_xml/Fingerprinter.xml',
                             detectaromaticity=True,
                             standardizenitro=True,
                             standardizetautomers=True,
@@ -235,7 +235,7 @@ with tab1:
       if st.session_state.smiles_input != '':
         #model = pickle.load(open(r'C:\\Users\\user\\Desktop\\bcr_abl_pred\\myenv\\models\\rf_bcr_abl.bin', 'rb'))
         model = joblib.load('models/bcr_abl_rf_gini4_maxdepth4_n_est100_1.joblib')
-        low_var_feat_names = pd.read_csv('models\/cdk_low_var.csv')
+        low_var_feat_names = pd.read_csv('models/cdk_low_var.csv')
         col= list(low_var_feat_names.columns.values)
         #cdk_low_var = descriptors.drop('Name', axis=1)
 

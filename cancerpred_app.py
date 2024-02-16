@@ -633,7 +633,8 @@ with tab6:
     
   ''')
 with tab7:
+  st.header('Developed by Dr. Mohd. Shoaib Khan')
   st.header('Project Coordinator- Prof. Madhu Chopra')
-  st.markdown('Coming Soon')
+  st.markdown('More details coming Soon')
 
 ############################## coding ends #################################

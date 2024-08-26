@@ -1,0 +1,9 @@
+Smiles,ChEMBL_ID_Molecule_Name
+C[N+]1(CCC(=O)Nc2cccc3c2C(=O)c2c(NC(=O)CC[N+]4(C)CCCC4)cccc2C3=O)CCCC1.[I-].[I-],CHEMBL144219
+CCn1c2ccccc2c2cc(Nc3nc(Nc4ccc5nc(C)cc(N)c5c4)nc(SC)n3)ccc21,CHEMBL2297960
+CSc1nc(Nc2ccc(C#N)cc2)nc(Nc2ccc3nc(C)cc(N)c3c2)n1,CHEMBL2297956
+O=S(=O)(F)/C=C/c1ccc2ccccc2c1,CHEMBL4469807
+O=C1c2nccc(O)c2-c2nc3ccccc3c3ccnc1c23,CHEMBL327101
+O=c1cc(-c2ccc(O)c(O)c2)oc2c(O)c(O)c([123I])cc12,CHEMBL4090090
+C[N+](C)(C)CCC(=O)Nc1ccc(NC(=O)CC[N+](C)(C)C)c2c1C(=O)c1ccccc1C2=O.[I-].[I-],CHEMBL111417
+CC(=CC(=O)NC1=CC=CC=C1C(=O)O)C2=CC3=CC=CC=C3C=C2,BIBR1532

@@ -1,0 +1,8 @@
+Smiles,ChEMBL_ID_Molecule_Name
+O=C(N([H])O[H])C1=C([H])C([H])=C(C([H])=C1[H])C([H])([H])N(/C2=N/C([H])=C([H])N=C2[H])C3=NC([H])=C([H])N=C3[H] ,SEL4_KA2507
+[F]C=1C([H])=C(C([H])=C([H])C=1[H])C3(N([H])C=2/N=C(/[H])C(=C([H])N=2)C(=O)N([H])O[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C3([H])[H] ,SEL9_ACY775
+ONC(=O)C1=CC=C(C=C1)CN4C=2CCN(C)CC=2C=3C=CC=CC=34 ,SEL10_TUBASTATIN
+OCCN(C=1C=CC=CC=1)C(=O)C/C2=C/C=C(C=C2)C(=O)NO ,SEL11_HPOP
+COc1ccc2c(c1)c(CC(=O)NCCCCCCCC(=O)NO)c(C)n2C(=O)c1ccc(Cl)cc1 ,CHEMBL3885245
+O=C(NO)c1cnc(NC2(c3cccc(F)c3F)CC2)nc1 ,CHEMBL3656012
+O=C(CCCCCCn1cc(-c2ccc3ncnc(Nc4ccc(Br)cc4F)c3c2)nn1)NO ,CHEMBL4863294
